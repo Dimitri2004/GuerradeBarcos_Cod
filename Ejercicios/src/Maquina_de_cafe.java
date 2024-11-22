@@ -4,7 +4,6 @@ import java.util.Scanner;
  *
  *
  **/
-
 public class Maquina_de_cafe {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
